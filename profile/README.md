@@ -19,4 +19,4 @@ AtrivaTECH leading SaaS and HaaS Company. - A member of It's ON Group of Compani
 Student and Founder of ON Group. MD AtrivaTECH.  Lab-Man @ esccrasci esccrasci.in
 
 ### Vijayalakshmi Pamarty
-Founder of AtrivaTECH
+Chief Finance Manager/Officer 
