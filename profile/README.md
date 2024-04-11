@@ -1,5 +1,5 @@
 ## Hi there 👋
-### AtrivaTECH (ON Group of companies)
+### AtrivaTECH ( It's ON Group of companies)
 <!--
 
 **Here are some ideas to get you started:**
