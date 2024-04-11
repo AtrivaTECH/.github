@@ -16,7 +16,7 @@ AtrivaTECH leading SaaS and HaaS Company. - A member of It's ON Group of Compani
 
 ## Team
 ### Atul Ravi
-Student and Founder of ON Group. MD AtrivaTECH.  Lab-Man @ esccrasci esccrasci.in
+Student and Founder of It's ON Group. MD AtrivaTECH.  Lab-Man @ esccrasci esccrasci.in
 
 ### Vijayalakshmi Pamarty
 Chief Finance Manager/Officer
