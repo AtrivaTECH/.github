@@ -1,5 +1,5 @@
 ## Hi there 👋
-### AtrivaTECH ( It's ON Group of companies)
+### AtrivaTECH (Atriva Technologies)
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-AtrivaTECH leading SaaS and HaaS Company. - A member of It's ON Group of Companies. 
+AtrivaTECH leading SaaS and HaaS Company. - A member of Atriva Technologies. 
 
 <hr width = 100% height = 2>
 
