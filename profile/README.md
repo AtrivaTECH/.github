@@ -12,11 +12,13 @@
 -->
 AtrivaTECH leading SaaS and HaaS Company. - A member of Atriva Technologies. 
 
+Atrivatech, Atriva Technologies are all part of Atrivatech P. Ltd.
+
 <hr width = 100% height = 2>
 
 ## Team
 ### Atul Ravi
-Student and Founder of It's ON Group. MD AtrivaTECH.  Lab-Man @ esccrasci esccrasci.in
+Founder , Director
 
 ### Vijayalakshmi Pamarty
 Chief Finance Manager/Officer
